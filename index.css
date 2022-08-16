@@ -48,5 +48,9 @@ button {
 
 #save-btn {
     background: hsl(200, 75%, 50%);
+    margin-bottom: 0;
 }
 
+#reset-btn {
+    background: hsl(0, 75%, 50%);
+}
