@@ -1,4 +1,4 @@
-# co46a4342b04d3fe15b1d1fee
+# I'm learning this on Scrimba!
 
 ## About Scrimba
 
