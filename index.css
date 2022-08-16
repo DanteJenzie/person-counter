@@ -53,4 +53,5 @@ button {
 
 #reset-btn {
     background: hsl(0, 75%, 50%);
+    color: black;
 }
