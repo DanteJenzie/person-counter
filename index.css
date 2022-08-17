@@ -52,7 +52,7 @@ button {
 }
 
 #reset-btn {
-    background: hsl(0, 75%, 50%) !important;
+    background: hsl(0, 0%, 50%) !important;
     color: black !important;
 }
 
