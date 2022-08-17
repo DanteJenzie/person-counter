@@ -52,6 +52,11 @@ button {
 }
 
 #reset-btn {
-    background: hsl(0, 75%, 50%);
-    color: black;
+    background: hsl(0, 75%, 50%) !important;
+    color: black !important;
+}
+
+#decrement-btn {
+    background: hsl(90, 75%, 50%) !important;
+    margin-bottom: 0;
 }
